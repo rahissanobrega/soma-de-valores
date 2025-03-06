@@ -1,4 +1,4 @@
-## SomaDeValores
+## Soma De Valores
 
 Este projeto é uma aplicação simples em Java que calcula a soma de dois valores inteiros fornecidos pelo usuário e compara o resultado com um terceiro valor. O objetivo é demonstrar conceitos básicos de entrada e saída de dados, operações aritméticas e estruturas condicionais em Java.
 
