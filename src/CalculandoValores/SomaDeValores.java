@@ -26,7 +26,7 @@ public class SomaDeValores {
             System.out.println(somaDeValores + " é maior que " + valorC);
         }
 
-        System.out.println("Obrigado por ajudar!");
+        System.out.println("Fim de código");
 
     }
 }
